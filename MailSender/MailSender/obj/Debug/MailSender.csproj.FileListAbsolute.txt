@@ -1,0 +1,12 @@
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\bin\Debug\MailSender.exe.config
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\bin\Debug\MailSender.exe
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\bin\Debug\MailSender.pdb
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\bin\Debug\EASendMail.dll
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\obj\Debug\MailSender.csprojAssemblyReference.cache
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\obj\Debug\MailSender.Form1.resources
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\obj\Debug\MailSender.csproj.GenerateResource.cache
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\obj\Debug\MailSender.csproj.CoreCompileInputs.cache
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\obj\Debug\MailSender.csproj.CopyComplete
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\obj\Debug\MailSender.exe
+C:\Users\Abdulkadir\Desktop\Mail Sender\MailSender\MailSender\obj\Debug\MailSender.pdb
