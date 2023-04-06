@@ -7,5 +7,3 @@
 Exe Directory : mailsender/MailSender/MailSender/bin/Debug/
 
 ### mailsender
-a-.
-m
